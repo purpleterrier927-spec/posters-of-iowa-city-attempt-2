@@ -1,7 +1,7 @@
 field,display_name,btn,hidden,sort_name,facet_name
-date,Date,,,Date Created
+eventdate,Event Date,,,Event Date
 description,,,true,
 creator,Creator,,,
 subject,,true
-location,,true,,,Location Depicted
+eventlocation,,true,,,Event Location
 identifier,,,true,Identifier

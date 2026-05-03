@@ -20,20 +20,8 @@ padding: 6em
 
 ## About CollectionBuilder CSV
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+This collection features event flyers and programs from Iowa City's pedestrian business areas. This includes political protest posters, advertisements for parties or shows, and anything else that shows up attached to the walls and lampposts in Iowa City's downtown and northside areas. While these documents are not created by me or in the public domain, permission to display every item in the collection requested from the items' copyright holders and granted.
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+I got the inspiration for this collection from going through similar event programs at work and thinking about how they offer a window into the lives of people in an area and the kinds of subcultures inhabiting it. I myself have hung up posters for events, and it's interesting to imagine them as a window into my own life and the lives of everyone who saw them. I thought, "I bet people don't hold onto these", so I thought it would be an interesting project to capture life and culture in contemporary Iowa City.
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
-
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
-
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
-
-{% include feature/image.html objectid="demo_001" width="75" %} 
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+By looking at this collection, you can form a better picture of everyday life in Iowa City, trace the nightlife, gain insight into what people are doing and what they think is important. Note the graphic design, artwork, and modern methods of production on display. Imagine yourself encountering these on a walk to work, in their natural environment. Most of these posters are never preserved in any way, so I'm glad to have preserved them here.
