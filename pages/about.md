@@ -18,7 +18,7 @@ padding: 6em
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-## About CollectionBuilder CSV
+## About Posters of Iowa City
 
 This collection features event flyers and programs from Iowa City's pedestrian business areas. This includes political protest posters, advertisements for parties or shows, and anything else that shows up attached to the walls and lampposts in Iowa City's downtown and northside areas. While these documents are not created by me or in the public domain, permission to display every item in the collection requested from the items' copyright holders and granted.
 
